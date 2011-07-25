@@ -57,8 +57,13 @@
 "Check Now" = "Buscar ahora";
 "Check for Updates" = "Buscar actualizaciones";
 "Automatically check the website for updates" = "Comprueba la web automáticamente.";
+<<<<<<< HEAD
 "Include pre-releases" = "Prueba versiones nuevas antes que nadie";
 "Participate in TotalFinder testing" = "Ayuda a hacer TotalFinder mejor. El Finder podría volverse inestable."; //Traducción libre, para hacerlo más entendible
+=======
+"Include pre-releases" = "Prueba las nuevas versiones antes que nadie";
+"Participate in TotalFinder testing" = "Ayuda a hacer TotalFinder mejor. El Finder podría volverse inestable.";
+>>>>>>> 9a72e8120849c42abbbb0cb0183ae2962c38260b
 
 /* registration */
 "TotalFinder Registration" = "Registro de TotalFinder";
